@@ -3,7 +3,7 @@ p{
    color: white;
 }
 
-div > p{
+div p:nth-of-type(1){
    background-color: yellow;
    color: red;
 }
