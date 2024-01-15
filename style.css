@@ -1,9 +1,9 @@
-.first-div p{
-   background-color: yellow;
-   color: red;
-}
-
-.second-div p {
+p{
    background-color: blue;
    color: white;
+}
+
+div > p{
+   background-color: yellow;
+   color: red;
 }
